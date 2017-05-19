@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">漫画客</string>
+    <string name="bookshelf">书架</string>
+    <string name="bookstore">书城</string>
+    <string name="search">搜索</string>
+
+    <string name="shao_nian">少年漫画</string>
+    <string name="shaonv">少女漫画</string>
+    <string name="qingnian">青年漫画</string>
+    <string name="danmei">耽美漫画</string>
+</resources>
